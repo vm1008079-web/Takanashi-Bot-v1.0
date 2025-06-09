@@ -1,6 +1,6 @@
 <h1 align="center"> david ˢᵒˡᶠᵗ ✦</h1>
 
- <img src= "https://files.catbox.moe/8xhnpl.png">
+ <img src= "https://qu.ax/GxMZq.jpg">
     </p>
 
 ### **`❕️ Información importante`**
