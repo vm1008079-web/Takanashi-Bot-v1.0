@@ -69,7 +69,7 @@
 
 ---
 
-### **`👑 Propietario`**
+### **`👑 Colaborador`**
 <a href="https://github.com/SebastianSBGGy"><img src="https://files.catbox.moe/irbmcz.png" width="130" height="130" alt="ˢᵉᵇᵃˢᵗⁱᵃⁿ"/></a>
 
 ### **`👑 Propietario**
