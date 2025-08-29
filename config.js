@@ -17,16 +17,12 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-['522219831926', '۪〬.࠭⤿ 👑 ⋅  Creador', true],
-['50248019799', '۪〬.࠭⤿ 👑 ⋅ 🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲 soport', true],
-['50248019799', '۪〬.࠭⤿ 🐶 ⋅ Diego  ', true],
-['50248019799', '۪〬.࠭⤿ 👑 ⋅ 🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲', true],
-['50248019799', '۪〬.࠭⤿ 👤 ⋅ Name', true]
+['5356795360', '۪〬.࠭⤿ 👑 ⋅  Creador', true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['522219831926', '50248019799', '50248019799', '50248019799']
+global.mods = ['5356795360', '50248019799', '50248019799', '50248019799']
 global.suittag = ['50248019799'] 
 global.prems = ['522219831926', '50248019799', '50248019799', '50248019799']
 
@@ -37,25 +33,25 @@ global.baileys = 'V 6.7.9'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
-global.nameqr = 'Kanashi-Botqr'
-global.namebot = 'Kanashi-Bot'
+global.nameqr = 'Astra-Botqr'
+global.namebot = 'Astra-Bot'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.NakanoJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'Kanashi-Bot－MD'
-global.botname = 'Kanashi-Bot '
-global.wm = 'Kanashi-Bot'
-global.author = '⭐simon💥 Ｂｙ Kanashi-Bot'
-global.dev = '𝓟𝓞𝓦𝓔𝓡𝓓 𝓑𝓨 David'
-global.textbot = 'Kanashi-Bot : Simon-Md'
-global.etiqueta = 'Simon💥'
+global.packname = 'Astra-Bot－MD'
+global.botname = 'Astra-Bot '
+global.wm = 'Astra-Bot'
+global.author = 'Omega👻 Ｂｙ Astra-Bot'
+global.dev = '𝓟𝓞𝓦𝓔𝓡𝓓 𝓑𝓨 Omega'
+global.textbot = 'Astra-Bot : Omega-Md'
+global.etiqueta = 'Astra💥'
 global.titulowm = 'Whatsapp Multi Device';
 global.titulowm2 = 'Simple Bot WhatsApp'
-global.igfg = '☃️simon'
-global.gt = 'ᶜʳᵉᵃᵗᵉᵈ ᴮʸ simon';
+global.igfg = 'Astra'
+global.gt = 'ᶜʳᵉᵃᵗᵉᵈ ᴮʸ Omega';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
